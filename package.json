@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Casey"
+	"author": "Casey",
+	"description": "NPM practice"
 }
